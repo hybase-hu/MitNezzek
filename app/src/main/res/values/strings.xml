@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mit Nézzek ma</string>
+    <string name="api_v3">931336ccca676ca7c7deb03504792ab0</string>
+    <string name="api_v4">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5MzEzMzZjY2NhNjc2Y2E3YzdkZWIwMzUwNDc5MmFiMCIsInN1YiI6IjYwMzEyM2ZlOTZlMzBiMDAzZjIzMGYwOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.jpmfXRv7zDcL2RTV5ZMjOBxJZ0CSu_tdX65UBe22YbI</string>
+</resources>
